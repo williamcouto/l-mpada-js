@@ -1,0 +1,28 @@
+@charset 'UTF-8';
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+h1{
+    font: lighter 23pt 'Poppins', sans-serif;
+}
+
+main{
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    padding: 14px;
+}
+
+.bttn_lamp{
+   display: block;
+}
+
+#lamp_on, #lamp_off{
+    display: inline;
+    width: 110px;
+    height: 40px;
+    margin: 7px;
+    font: 16px 'Poppins', Arial, sans-serif;
+    border: 1px solid rgba(0, 0, 0, 0.391);
+    border-radius: 7px;
+    background-color: #F5FBEF;
+    cursor: pointer;
+}
