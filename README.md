@@ -4,7 +4,7 @@ Este é um projeto simples que apresenta uma lâmpada interativa. A particularid
 
 ## Como funciona?
 O site possui dois botões (acender e desligar) e a imagem de uma lâmpada. Se o botão desligar for clicado, o fundo do site muda para uma cor escura e a lâmpada se apaga. 
-Se o botão acender for clicado, a lampada acenderá e a cor do fundo volta ao padrão, e ao clicar na lâmpada, ela quebra.
+Se o botão acender for clicado, a lampada acenderá e a cor do fundo voltará ao padrão, e ao clicar na lâmpada, ela se quebra.
 
 ## Tecnologias utilizadas
 <div style = display: inline-block>
